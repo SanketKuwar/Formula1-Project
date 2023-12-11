@@ -137,3 +137,6 @@ Navigate the Track like a Well-Tuned F1 Car: Testing Mond ADLS.
 
 🔗 [Link to Dominant Team Analysis Code](https://github.com/SanketKuwar/Formula1-Project/blob/main/Results_Analysis/2.find_dominant_teams.sql)
 
+![Project Image](https://github.com/SanketKuwar/Formula1-Project/blob/main/Dominant_Driver_Analysis.png)
+
+
