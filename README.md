@@ -12,17 +12,23 @@ Welcome to the Formula 1 Data Wonderland! 🌟 This project builds an extraordin
 ##  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚦🚦--  SETUP --🚦🚦&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-**Mounting ADLS Containers**
-   - Explore the Depths of Azure Data Lake Storage.
-   [🚀 Mounting ADLS Containers Code](https://github.com/SanketKuwar/Formula1-Project/blob/main/Files_Setup/Mount_adls_containers_for_project.py)
+## 🚀 Mounting ADLS Containers
 
-**Testing Access with Service Principal**
-   - Ascend the Realm of Credentials: Ensuring Rule over the Racing Kingdom.
-   [🧪 Testing Access Code](https://github.com/SanketKuwar/Formula1-Project/blob/main/Files_Setup/Test_Access_adls_using_service_principal.py)
+Explore the Depths of Azure Data Lake Storage.
 
-**Testing Mond ADLS with Service Principal**
-   - Navigate the Track like a Well-Tuned F1 Car: Testing Mond ADLS.
-   [🚦 Testing Mond ADLS Code](https://github.com/SanketKuwar/Formula1-Project/blob/main/Files_Setup/Test_mount_adls_using_service_principal.py)
+🔗 [Mounting ADLS Containers Code](https://github.com/SanketKuwar/Formula1-Project/blob/main/Files_Setup/Mount_adls_containers_for_project.py)
+
+## 🧪 Testing Access with Service Principal
+
+Ascend the Realm of Credentials: Ensuring Rule over the Racing Kingdom.
+
+🔗  [Testing Access Code](https://github.com/SanketKuwar/Formula1-Project/blob/main/Files_Setup/Test_Access_adls_using_service_principal.py)
+
+
+## 🚦  Testing Mond ADLS with Service Principal
+Navigate the Track like a Well-Tuned F1 Car: Testing Mond ADLS.
+
+🔗  [Testing Mond ADLS Code](https://github.com/SanketKuwar/Formula1-Project/blob/main/Files_Setup/Test_mount_adls_using_service_principal.py)
 
 ---
 
